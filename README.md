@@ -1,3 +1,9 @@
+# Python script from Automate
+
+Vecchi script fatti in python durante un mio precedente lavoro, permettono di automatizzare un noioso lavoro di copia e incolla inteliggente attraverso dei semplici file di configurazione.
+
+
+
 # Tools TIA di Automate srl
 
 Per poter eseguire gli script qui contenuti, da qualunque posizione del File System, eseguire i seguenti passaggi:
